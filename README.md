@@ -1,3 +1,28 @@
-# PL_Game
+# Shadowlightless
+Project of the Playful Programming subject. Course 2020-2021.
+Development of a competitive 2D video game.
 
-Developed with Unreal Engine 4
+
+### How to use 🔧
+Download the project and import it to Unreal Engine 4. You can preview it
+from there or export it to executable.
+
+
+## Built with 🛠️
+
+* [UnrealEngine4](https://www.unrealengine.com/) 
+* [Adobe Photoshop](https://www.adobe.com/es/products/photoshop.html) 
+
+
+## Authors ✒️
+
+* **Juan Emilio Martínez Manjón** - [Juane99](https://github.com/Juane99)
+* **Natalia Ramírez García** - [nataliargdny](https://github.com/nataliargdny)
+
+
+## License 📄
+
+[LICENSE](https://github.com/Juane99/Shadowlightless/blob/main/LICENSE) for details
+
+
+## Thank you all
