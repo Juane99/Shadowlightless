@@ -7,6 +7,8 @@ Development of a competitive 2D video game.
 Download the project and import it to Unreal Engine 4. You can preview it
 from there or export it to executable.
 
+You can also execute the release included in this repository.
+
 
 ## Built with 🛠️
 
